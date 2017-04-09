@@ -2,7 +2,7 @@
 <body>
 <table>
 <tr>
-<td colspan="2">University of Delhi Website does not consist of certain things such as:= </td></tr>
+<td colspan="2">University of Delhi </td></tr>
 <tr><td>Page Title</td><td> This website consists of 26 characters. The Page title should consist of 9 to 65 words.</td></tr>
 <tr><td>Meta Description</td><td>  The meta description length of the page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td></tr>
 <tr><td>Meta Keyword</td><td>Meta keywords not Found : Google Does not accept meta keywords any more.</td></tr>
